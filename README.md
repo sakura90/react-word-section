@@ -129,8 +129,7 @@ function App() {
         corner='sharp'
       >
         {content}
-      </WordSection>
-      
+      </WordSection>      
     </>
   );
 }
