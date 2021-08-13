@@ -15,7 +15,7 @@ The subject text is larger than the content text.
 PC:
 
 <p align="left">
-  <img width="50%" src="READMEHelperFiles/common_pc.png" />
+  <img width="100%" src="READMEHelperFiles/common_pc.png" />
 </p>
 
 Mobile:
@@ -31,7 +31,7 @@ On top of the common style, a vertical line is added to the left of the subject 
 PC:
 
 <p align="left">
-  <img width="50%" src="READMEHelperFiles/verticalLine_pc.png" />
+  <img width="100%" src="READMEHelperFiles/verticalLine_pc.png" />
 </p>
 
 Mobile:
@@ -47,7 +47,7 @@ On top of the common style, an underline is added to the bottom of the subject t
 PC:
 
 <p align="left">
-  <img width="50%" src="READMEHelperFiles/underline_pc.png" />
+  <img width="100%" src="READMEHelperFiles/underline_pc.png" />
 </p>
 
 Mobile:
@@ -64,7 +64,7 @@ On top of the common style, a lightgrey background color is added to the text bl
 PC:
 
 <p align="left">
-  <img width="50%" src="READMEHelperFiles/backgroundColor_pc.png" />
+  <img width="100%" src="READMEHelperFiles/backgroundColor_pc.png" />
 </p>
 
 Mobile:
@@ -80,7 +80,7 @@ On top of the common style, the subject text is in bold.
 PC:
 
 <p align="left">
-  <img width="50%" src="READMEHelperFiles/bold_pc.png" />
+  <img width="100%" src="READMEHelperFiles/bold_pc.png" />
 </p>
 
 Mobile:
