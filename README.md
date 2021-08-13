@@ -140,13 +140,13 @@ export default App;
 
 ---
 
-| Option                  | Type       | Required   | Default                   | Description                                                |
-| ----------------------- | ---------- | ---------- | ------------------------- | ---------------------------------------------------------- |
-| [`subject`]             | `String`   | Yes        | N/A                       | Subject text                                               |
-| [`content`]             | `String`   | Yes        | N/A                       | Content text                                               |
-| [`subjectStyle`]        | `String`   | No         | `common`                  | Subject text UI style.  `common`, `verticalLine`, `underline`, `backgroundColor`, or `bold`                     |
-| [`background`]          | `String`   | No         | `white`                   | Background color of the section. `white` or `lightgrey`    |
-| [`corner`]              | `String`   | No         | `sharp`                   | Corner appearance of the section block. `sharp` or `round` |
+| Option                | Type       | Required   | Default                   | Description                                                |
+| --------------------- | ---------- | ---------- | ------------------------- | ---------------------------------------------------------- |
+| `subject`             | `String`   | Yes        | N/A                       | Subject text                                               |
+| `content`             | `String`   | Yes        | N/A                       | Content text                                               |
+| `subjectStyle`        | `String`   | No         | `common`                  | Subject text UI style.  `common`, `verticalLine`, `underline`, `backgroundColor`, or `bold`                     |
+| `background`          | `String`   | No         | `white`                   | Background color of the section. `white` or `lightgrey`    |
+| `corner`              | `String`   | No         | `sharp`                   | Corner appearance of the section block. `sharp` or `round` |
 
 ## Demo
 
