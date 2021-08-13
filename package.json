@@ -1,6 +1,6 @@
 {
   "name": "react-word-section",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React component that displays a text subject under that there is text content as a word section.",
   "main": "dist/index.js",
   "scripts": {
