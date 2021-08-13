@@ -1,0 +1,45 @@
+{
+  "name": "react-word-section",
+  "version": "1.0.0",
+  "description": "React component that displays a text subject under that there is text content as a word section.",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "rm -rf dist && cross-env NODE_ENV=production babel src --out-dir dist --copy-files",
+    "prettier": "prettier --write \"src/**/*.js\"",
+    "eslint": "eslint \"src/**/*.js\""
+  },
+  "engines": {
+    "node": ">=10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sakura90/react-word-section.git"
+  },
+  "keywords": [
+    "React",
+    "word section",
+    "text",
+    "component",
+    "UI"
+  ],
+  "devDependencies": {
+    "@babel/cli": "^7.14.8",
+    "@babel/core": "^7.15.0",
+    "@babel/polyfill": "^7.12.1",
+    "@babel/preset-env": "^7.15.0",
+    "@babel/preset-react": "^7.14.5",
+    "cross-env": "^7.0.2",
+    "eslint": "^7.32.0",
+    "eslint-plugin-react": "^7.24.0",
+    "prettier": "^2.0.4",
+    "prop-types": "^15.7.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "author": "Patrick Chan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sakura90/react-word-section/issues"
+  },
+  "homepage": "https://github.com/sakura90/react-word-section#readme"
+}
