@@ -1,10 +1,7 @@
 # react-word-section
 
-Usually text information is represented by a subject following the content of the text information.
-Displaying the subject and the content in a simple style is enough for conveying the meaning of the information, but
-there are times it is nice to display the text information in other ways for fitting the section in the overall UI design.
-This library gives developers other appropriate options of displaying the section.
-Also developers can see the result of the various styles of displaying a text section without spending much time coding.
+This library gives developers other appropriate options of displaying a word section 
+represented by a subject following the content of the text information in addition to simply displaying a subject on top of the text content.
 
 This library gives 5 ways of displaying a section of text.  
 
@@ -112,7 +109,7 @@ function App() {
       <WordSection 
         subject={subject}
         content={content}
-        subjectStyle='bold'
+        subjectStyle='common'
         background='white'
         corner='sharp'
       />
@@ -134,6 +131,3 @@ export default App;
 | [`subjectStyle`]        | `String`   | No         | `common`                  | Subject text UI style.  `common`, `verticalLine`, `underline`, `backgroundColor`, or `bold`                     |
 | [`background`]          | `String`   | No         | `white`                   | Background color of the section. `white` or `lightgrey`    |
 | [`corner`]              | `String`   | No         | `sharp`                   | Corner appearance of the section block. `sharp` or `round` |
-
-## Demo
-
